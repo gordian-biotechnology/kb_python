@@ -69,6 +69,7 @@ TECHNOLOGIES = [
         'inDropsv3_whitelist.txt.gz',
     ),
     Technology('SCRUBSEQ', 'SCRB-Seq', 2, 1, [(0, 6, 16)], [(0, 0, 6)], None),
+    Technology('CELSEQ8BP', 'CEL-SEQ 8', 2, 1, [(0, 8, 16)], [(0, 0, 8)], None),
     Technology(
         'SURECELL', 'SureCell for ddSEQ', 2, 1, [(0, 51, 59)], [(0, 0, 6),
                                                                 (0, 21, 27),
